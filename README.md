@@ -14,8 +14,8 @@ ii) 1: Push cart to the right
 
 ## MONTE CARLO CONTROL ALGORITHM FOR CART POLE BALANCING
 ```
-Name: THAMARAISELVAN V
-Reg No: 212221230115
+Name: Ragul A C
+Reg No: 212221240042
 ```
 
 ```Python
@@ -157,13 +157,13 @@ def mc_control (env,n_bins=g_bins, gamma = 1.0,
 
 ## OUTPUT:
 1. Specify the average number of steps achieved within two minutes when the Monte Carlo (MC) control algorithm is initiated with zero-initialized Q-values.
-![Uploading Screenshot 2024-11-21 203746.png…]()
+![Screenshot 2024-11-21 203746](https://github.com/user-attachments/assets/7bccff0e-a9e6-417e-95df-403d18b2e5bc)
 
 2. Mention the average number of steps maintained over a four-minute period when the Monte Carlo (MC) control algorithm is executed with pretrained Q-values.
-![Uploading Screenshot 2024-11-21 203759.png…]()
+![Screenshot 2024-11-21 203759](https://github.com/user-attachments/assets/67a91f28-ce1a-4ae2-bc8a-623b7535e0af)
 
 3. In your submission text, mention the average number of steps maintained over a four-minute period when the Monte Carlo (MC) control algorithm is executed with pretrained Q-values.
-![Uploading Screenshot 2024-11-21 203817.png…]()
+![Screenshot 2024-11-21 203817](https://github.com/user-attachments/assets/3116a00d-3f17-4aad-98c9-f0b1a1d0bef2)
 
 
 
